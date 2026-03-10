@@ -4,8 +4,7 @@
 <img src='./img.jpg' width='1000'/>
 </center>
 
-## 📖 **About**
-The project comes as a deepening of the final work of my Bachelor in Mathematical Engineering @ Politecnico di Milano. It is meant to be a guide to any machine learning classification-project from beginning to end. 
+
 
 In this repository, I divided the work into three different stages:
 
